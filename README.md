@@ -1,4 +1,4 @@
-# BibBase Example Page
+# BibBase Test Page
 
 This is an example Github repository that uses GitHub's free [Pages feature](https://pages.github.com/) to create a web page for Albert Einstein. You can fork it and replace the content of:
 - `pubs.bib` with a bibtex file with your own publications, and
